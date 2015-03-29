@@ -1,3 +1,22 @@
+body {
+	background-color: black;
+}
+
 h1  {
-	color: red;
+	color: cyan;
+}
+
+#main {
+	max-width: 700px;
+	margin: auto;
+	font-family: sans-serif;
+	color: magenta;
+	line-height: 2em;
+	font-size: 1.5em;
+	
+}
+
+h2 a {
+	color:yellow;
+	font-size:.8em;
 }
